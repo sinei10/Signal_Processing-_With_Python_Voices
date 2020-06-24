@@ -10,3 +10,6 @@ https://librosa.github.io/librosa/    (pretty interesting)
 # Repos that may help
 https://github.com/AllenDowney/ThinkDSP.git
 https://github.com/ismir/ismir-home.git
+
+# Codigos
+...
