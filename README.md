@@ -10,6 +10,9 @@ https://librosa.github.io/librosa/    (pretty interesting)
 # Repos that may help
 https://github.com/AllenDowney/ThinkDSP.git
 https://github.com/ismir/ismir-home.git
-https://steakrecords.com/es/691613-how-to-compare-frequencies-sampling-rates-in-pandas-python-pandas-sample-data.html
+
+#Pages 
+https://www.it-swarm.dev/es/python/dividir-el-archivo-de-audio-de-voz-en-palabras-en-python/825293830/
+https://github.com/gagangm/Gender-Recognition
 # Codigos
 ...
