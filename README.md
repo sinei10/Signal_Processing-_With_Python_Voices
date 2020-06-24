@@ -10,6 +10,6 @@ https://librosa.github.io/librosa/    (pretty interesting)
 # Repos that may help
 https://github.com/AllenDowney/ThinkDSP.git
 https://github.com/ismir/ismir-home.git
-
+https://steakrecords.com/es/691613-how-to-compare-frequencies-sampling-rates-in-pandas-python-pandas-sample-data.html
 # Codigos
 ...
